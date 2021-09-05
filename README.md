@@ -10,7 +10,7 @@ Strong enthusiasm for Blockchain and Distributed Ledger Technologies.
 
 ### Technical Skills
 - C++14/17
-- Golang
+- Go
 - HTML/CSS/JavaScript
 - Blockchain, Hyperledger Fabric, Ethereum, DApps, Solidity
 - Electron/CEF
