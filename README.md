@@ -1,4 +1,25 @@
-### Hi there 👋
+### Hi Everyone 👋
+
+14+ years of experience in designing and developing cross-platform Desktop, Web, and
+Hybrid Applications.
+Strong enthusiasm for Blockchain and Distributed Ledger Technologies.
+
+
+* 🔭 I’m currently working on a blockchain project using Hyperledger Fabric
+* 👯 I’m looking to collaborate on Blockchain projects
+
+### Techical Skills
+- C++14/17
+- Golang
+- HTML/CSS/JavaScript
+- Blockchain, Hyperledger Fabric, Ethereum, DApps, Solidity
+- Electron/CEF
+- Angular
+- MongoDB
+- Ionic/Flutter
+- Ruby on Rails
+- WebAssembly
+
 
 <!--
 **Anil8753/Anil8753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
