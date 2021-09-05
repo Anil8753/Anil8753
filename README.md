@@ -8,7 +8,7 @@ Strong enthusiasm for Blockchain and Distributed Ledger Technologies.
 * 🔭 I’m currently working on a blockchain project using Hyperledger Fabric
 * 👯 I’m looking to collaborate on Blockchain projects
 
-### Techical Skills
+### Technical Skills
 - C++14/17
 - Golang
 - HTML/CSS/JavaScript
