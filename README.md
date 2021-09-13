@@ -1,6 +1,6 @@
 ### Hi Everyone 👋
 
-14+ years of experience in designing and developing cross-platform Desktop, Web, and
+Experience in designing and developing cross-platform Desktop, Web, and
 Hybrid Applications.
 Strong enthusiasm for Blockchain and Distributed Ledger Technologies.
 
